@@ -3,19 +3,19 @@ Machine Learning with Apache Spark Quick Start Guide, published by Packy
 
 <a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Machine Learning with Apache Spark Quick Start Guide](Packt UTM URL of the Book), published by Packt.
 
-**Subtitle from EPIC**
+**Uncover patterns, derive actionable insights, and learn from big data using MLlib**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Every person and every organisation in the world manages data, whether they realise it or not. Data is used to describe the world around us and can be used for almost any purpose, from analysing consumer habits to fighting disease and serious organised crime. Ultimately we manage data in order to derive value from it, and many organisations around the world have traditionally invested in technology to help process their data faster and more efficiently.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+* Understand how Spark fits in the context of Big Data ecosystem
+* Learn to deploy and configure local development environment using Apache Spark
+* Lean to design Supervised and Unsupervised learning models
+* Build models to perform NLP, Deep learning, cognitive services using Spark ML libraries
+* Design real-time machine learning pipelines in Apache Spark
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
 
@@ -28,16 +28,16 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+import findspark
+findspark.init()
+from pyspark import SparkContext, SparkConf
+import random}
 ```
 
 **Following is what you need for this book:**
 Copy and paste the Audience section from the EPIC.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
 
 ### Software and Hardware List
 
