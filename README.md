@@ -1,9 +1,9 @@
 # Machine-Learning-with-Apache-Spark-Quick-Start-Guide
 Machine Learning with Apache Spark Quick Start Guide, published by Packy
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789346565"><img src="https://www.packtpub.com/sites/default/files/9781789346565.png" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning with Apache Spark Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Machine Learning with Apache Spark Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789346565), published by Packt.
 
 **Uncover patterns, derive actionable insights, and learn from big data using MLlib**
 
