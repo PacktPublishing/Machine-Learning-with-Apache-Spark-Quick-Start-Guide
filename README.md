@@ -10,7 +10,7 @@ This is the code repository for [Machine Learning with Apache Spark Quick Start 
 ## What is this book about?
 Every person and every organisation in the world manages data, whether they realise it or not. Data is used to describe the world around us and can be used for almost any purpose, from analysing consumer habits to fighting disease and serious organised crime. Ultimately we manage data in order to derive value from it, and many organisations around the world have traditionally invested in technology to help process their data faster and more efficiently.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Understand how Spark fits in the context of Big Data ecosystem
 * Learn to deploy and configure local development environment using Apache Spark
 * Lean to design Supervised and Unsupervised learning models
