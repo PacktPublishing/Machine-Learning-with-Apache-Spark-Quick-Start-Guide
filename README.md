@@ -1,5 +1,5 @@
 # Machine-Learning-with-Apache-Spark-Quick-Start-Guide
-Machine Learning with Apache Spark Quick Start Guide, published by Packy
+Machine Learning with Apache Spark Quick Start Guide, published by Packt
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789346565"><img src="https://www.packtpub.com/sites/default/files/9781789346565.png" alt="Book Name" height="256px" align="right"></a>
 
